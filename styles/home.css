@@ -10,6 +10,7 @@
   display: flex;
   justify-content: center;
   align-items: center;
+  flex-wrap: wrap;
 }
 
 .home__cabecalho img {
@@ -26,4 +27,13 @@
 .home__subtitulo {
   margin-top: 20px;
   text-align: center;
+}
+
+@media screen and (max-device-width: 480px) {
+  .home__titulo {
+    font-size: 32px;
+    margin-top: 12px;
+
+    text-align: center;
+  }
 }
