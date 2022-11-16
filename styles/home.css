@@ -35,5 +35,12 @@
     margin-top: 12px;
 
     text-align: center;
+
+    margin-left: 20px;
+    margin-right: 20px;
+  }
+
+  .home__subtitulo {
+    margin: 12px 20px;
   }
 }
