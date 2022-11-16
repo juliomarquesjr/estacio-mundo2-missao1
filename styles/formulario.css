@@ -1,0 +1,8 @@
+.botao_formulario {
+  background-color: #343a40;
+  color: #adb5bd;
+}
+
+.botao_formulario:hover {
+  background-color: #495057;
+}

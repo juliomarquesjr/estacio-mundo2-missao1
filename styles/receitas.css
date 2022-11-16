@@ -1,0 +1,27 @@
+.receitas {
+  display: flex;
+
+  flex-wrap: wrap;
+  margin-bottom: 20px;
+}
+
+.card {
+  width: 18rem;
+}
+
+.receitas .card {
+  margin-left: 20px;
+  margin-top: 20px;
+}
+
+.card-body ul {
+  margin-left: 8px;
+}
+
+.card-text {
+  text-align: justify;
+}
+
+.card-line {
+  border-top: 3px solid #bbb;
+}

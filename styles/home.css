@@ -1,0 +1,29 @@
+.home {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+
+  margin-top: 100px;
+}
+
+.home__cabecalho {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+
+.home__cabecalho img {
+  height: 64px;
+  width: 64px;
+  margin-right: 12px;
+}
+
+.home__titulo {
+    font-weight: 700;
+    font-size: 48px
+}
+
+.home__subtitulo {
+  margin-top: 20px;
+  text-align: center;
+}
